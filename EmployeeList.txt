@@ -1,0 +1,4 @@
+1000000,admin               ,admin               ,10/1/1990,Owner  ,150000.0,40.0,true,true,adminPassword@1
+1000001,Ramsell             ,Tim                 ,11/17/17,Asst   ,54000.0,0.0,true,true,manager@1
+1000002,Mouse               ,Mickey              ,11/17/17,Host   ,35000.0,40.0,false,false,DonaldRules@1
+1000003,Duck                ,Donald              ,11/17/17,Waiter ,44000.0,0.0,true,false,IAmDonald@1
